@@ -1,0 +1,15 @@
+body {margin: 2em 0; background: url(../splash/eh.png);  position: relative;}
+
+body * {margin: 0; padding: 0;}
+
+#platformerCanvas {background: url(../splash/splash.png); border: 0; position: relative;}
+
+.canvasHolder {margin: 0 auto; width: 800px; position: relative;}
+
+.cheese {margin: -400px auto 0 auto; position: relative; z-index: 20;}
+
+#platformerCanvas canvas {display: none;}
+
+something {z-index: 99;}
+
+button#Start {width: 100%; background: red; border: 0; margin: 0; height: 60px; background: url(../splash/startbar.png);}

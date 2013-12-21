@@ -1,0 +1,33 @@
+# impassable
+- passable
+. space
+Q invisible
+O missing
+P Plasticine
+W Lego
+
+
+Monsters
+A bike
+B graham
+C cyril
+D punchbag
+E bev
+F football
+H honda
+I premium
+J FOH
+K dynamaster
+L app
+M harold
+N james
+O T6
+
+
+
+need work:
+1
+4 (LB)
+5 (window)
+(kitchen)
+
